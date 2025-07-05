@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/perpustakaan/perpustakaan/src/controller/AnggotaDAO.java</file>
+            <file>file:/C:/perpustakaan/perpustakaan/src/view/FrmMainMenu.java</file>
+            <file>file:/C:/perpustakaan/perpustakaan/src/view/FrmAnggota.java</file>
+            <file>file:/C:/perpustakaan/perpustakaan/src/controller/PeminjamanDAO.java</file>
+            <file>file:/C:/perpustakaan/perpustakaan/src/view/FrmKategori.java</file>
+            <file>file:/C:/perpustakaan/perpustakaan/src/model/Buku.java</file>
+            <file>file:/C:/perpustakaan/perpustakaan/src/view/FrmLaporan.java</file>
+            <file>file:/C:/perpustakaan/perpustakaan/src/model/Peminjaman.java</file>
+            <file>file:/C:/perpustakaan/perpustakaan/src/controller/BukuDAO.java</file>
+            <file>file:/C:/perpustakaan/perpustakaan/src/view/FrmPengembalian.java</file>
+            <file>file:/C:/perpustakaan/perpustakaan/src/model/Pengembalian.java</file>
+            <file>file:/C:/perpustakaan/perpustakaan/src/controller/PengembalianDAO.java</file>
+            <file>file:/C:/perpustakaan/perpustakaan/src/view/FrmBuku.java</file>
+            <file>file:/C:/perpustakaan/perpustakaan/src/view/FrmPeminjaman.java</file>
+            <file>file:/C:/perpustakaan/perpustakaan/src/model/Anggota.java</file>
+        </group>
+    </open-files>
+</project-private>
